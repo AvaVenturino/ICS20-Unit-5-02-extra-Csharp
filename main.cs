@@ -9,7 +9,7 @@ class Program
 {
     public static void Main(string[] args)
     {
-        int num;
+      int num;
       Console.Write("Check whether a number is positive or negative:");
       Console.ReadLine();
       Console.Write("Input an integer : ");
